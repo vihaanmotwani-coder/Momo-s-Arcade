@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "tags": ["math", "logic"]
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash Lite",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "thumbnail": "https://picsum.photos/seed/geo/400/300",
+    "iframeUrl": "https://scratch.mit.edu/projects/105500895/embed",
+    "category": "Action",
+    "tags": ["rhythm", "platformer"]
+  },
+  {
+    "id": "tetris",
+    "title": "Retro Tetris",
+    "description": "The classic brick-stacking puzzle game we all know and love.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Retro",
+    "tags": ["classic", "puzzle"]
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Navigate a ball down a steep slope while avoiding obstacles.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://poki.com/en/g/slope-cybergirl",
+    "category": "Action",
+    "tags": ["skill", "3d"]
+  },
+  {
+    "id": "cut-the-rope",
+    "title": "Cut the Rope",
+    "description": "Feed candy to Om Nom by cutting ropes and solving physics puzzles.",
+    "thumbnail": "https://picsum.photos/seed/omnom/400/300",
+    "iframeUrl": "https://momo-arcade-sample.github.io/placeholder-ctr",
+    "category": "Puzzle",
+    "tags": ["physics", "cute"]
+  },
+  {
+    "id": "snake",
+    "title": "Classic Snake",
+    "description": "The original mobile game. Eat apples, grow longer, don't hit the walls.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Retro",
+    "tags": ["classic", "arcade"]
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Fast-paced 1v1 basketball game. Show off your skills on the court.",
+    "thumbnail": "https://picsum.photos/seed/bball/400/300",
+    "iframeUrl": "https://poki.com/en/g/basketball-stars",
+    "category": "Sports",
+    "tags": ["multiplayer", "ball"]
+  },
+  {
+    "id": "chess",
+    "title": "Master Chess",
+    "description": "Test your grandmaster skills against the AI or a friend.",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "iframeUrl": "https://www.chess.com/play/online",
+    "category": "Strategy",
+    "tags": ["board", "logic"]
+  }
+]
